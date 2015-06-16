@@ -1,0 +1,9 @@
+E:\Projects\zoomash\APIXU\APIXULib\obj\Debug\APIXULib.csprojResolveAssemblyReference.cache
+E:\Projects\zoomash\APIXU\APIXULib\bin\Debug\APIXULib.dll
+E:\Projects\zoomash\APIXU\APIXULib\bin\Debug\APIXULib.pdb
+E:\Projects\zoomash\APIXU\APIXULib\obj\Debug\APIXULib.dll
+E:\Projects\zoomash\APIXU\APIXULib\obj\Debug\APIXULib.pdb
+E:\Projects\zoomash\APIXU\APIXULib\bin\Debug\Newtonsoft.Json.dll
+E:\Projects\zoomash\APIXU\APIXULib\bin\Debug\System.Net.Http.Formatting.dll
+E:\Projects\zoomash\APIXU\APIXULib\bin\Debug\Newtonsoft.Json.xml
+E:\Projects\zoomash\APIXU\APIXULib\bin\Debug\System.Net.Http.Formatting.xml

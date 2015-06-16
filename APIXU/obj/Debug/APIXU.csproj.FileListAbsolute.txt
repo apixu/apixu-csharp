@@ -1,0 +1,15 @@
+E:\Projects\zoomash\APIXU\APIXU\bin\Debug\APIXU.exe.config
+E:\Projects\zoomash\APIXU\APIXU\bin\Debug\APIXU.exe
+E:\Projects\zoomash\APIXU\APIXU\bin\Debug\APIXU.pdb
+E:\Projects\zoomash\APIXU\APIXU\obj\Debug\APIXU.csprojResolveAssemblyReference.cache
+E:\Projects\zoomash\APIXU\APIXU\obj\Debug\APIXU.Properties.Resources.resources
+E:\Projects\zoomash\APIXU\APIXU\obj\Debug\APIXU.csproj.GenerateResource.Cache
+E:\Projects\zoomash\APIXU\APIXU\obj\Debug\APIXU.exe
+E:\Projects\zoomash\APIXU\APIXU\obj\Debug\APIXU.pdb
+E:\Projects\zoomash\APIXU\APIXU\bin\Debug\APIXULib.dll
+E:\Projects\zoomash\APIXU\APIXU\bin\Debug\System.Net.Http.Formatting.dll
+E:\Projects\zoomash\APIXU\APIXU\bin\Debug\Newtonsoft.Json.dll
+E:\Projects\zoomash\APIXU\APIXU\bin\Debug\APIXULib.pdb
+E:\Projects\zoomash\APIXU\APIXU\bin\Debug\System.Net.Http.Formatting.xml
+E:\Projects\zoomash\APIXU\APIXU\bin\Debug\Newtonsoft.Json.xml
+E:\Projects\zoomash\APIXU\APIXU\obj\Debug\APIXU.Form1.resources

@@ -1,0 +1,40 @@
+﻿@model APIXULib.WeatherModel
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="row">
+    <div class="col-md-4">
+        <h2>Weather Detail</h2>
+        
+        <p>
+            <h3>Current Weather Detail</h3>
+            <div>
+                City Name: @Model.location.name
+            </div>
+            <div>Country:@Model.location.country</div>
+            <div>Condition:@Model.current.condition.text</div>
+            <div>Humidity:@Model.current.humidity</div>
+            <div>Temp:@Model.current.temp_c</div>
+            <div>Wind Dir:@Model.current.wind_dir</div>
+            <div>Wind Kph:@Model.current.wind_kph</div>
+            <div></div>
+            
+            <div>Last Updated On:@Model.current.last_updated</div>
+        </p>
+        @foreach (var forecast in Model.forecast.forecastday)
+        {
+            <p>
+                <h3>Forecast Weather Detail</h3>
+              
+                <div>Date:@forecast.date</div>
+                <div>Condition:@forecast.day.condition.text</div>
+                <div>Temp:@forecast.day.avgtemp_c</div>
+                <div>Wind Kph:@forecast.day.maxwind_kph</div>
+                <div></div>
+            </p>}
+       
+
+    </div>
+   
+</div>
