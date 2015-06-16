@@ -20,7 +20,7 @@ namespace APIXU
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            string key = "eb2a0633229b456ba6093557151106";
+            string key = "YOUR_API_KEY";
             IRepository repo = new Repository();
             var GetCityForecastWeatherResult = repo.GetWeatherData(key, GetBy.CityName, "paris", Days.Three);
             var GetByLatLongForecastWeatherResult = repo.GetWeatherDataByLatLong(key, "30.2669444", "-97.7427778", Days.Three);
